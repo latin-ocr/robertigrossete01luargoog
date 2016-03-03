@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./robertigrossete01luargoog_0010.png"; bbox 0 0 3875 5734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 685 1579 732 1720">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 685 1579 732 1720">
+     <span class='ocr_line' id='line_1_1' title="bbox 685 1581 702 1690; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 687 1673 702 1690; x_wconf 74' lang='lat'>0</span> <span class='ocrx_word' id='word_1_2' title='bbox 685 1581 700 1598; x_wconf 66' lang='grc' dir='ltr'><strong><em>θ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 711 1579 732 1720; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 711 1579 732 1720; x_wconf 60' lang='grc' dir='ltr'><strong>θ’...</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1703 3155 2205 3250">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1703 3155 2205 3250">
+     <span class='ocr_line' id='line_1_3' title="bbox 1703 3155 2205 3250; baseline 0.004 -6"><span class='ocrx_word' id='word_1_4' title='bbox 1703 3155 2205 3250; x_wconf 85' lang='grc'>106043</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1605 4693 2875 4876">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1605 4693 2875 4876">
+     <span class='ocr_line' id='line_1_4' title="bbox 1605 4693 2875 4810; baseline 0.002 -8"><span class='ocrx_word' id='word_1_5' title='bbox 1605 4753 1746 4804; x_wconf 73' lang='grc' dir='ltr'>ΕΥΒΕ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1761 4755 1856 4802; x_wconf 79' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_7' title='bbox 1875 4693 2385 4810; x_wconf 49' lang='grc' dir='ltr'>ΒΡοττιεῐῖἐὲἙᾶΗῖζ</span> <span class='ocrx_word' id='word_1_8' title='bbox 2400 4755 2633 4810; x_wconf 73' lang='lat' dir='ltr'><strong>Majesty’s</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2650 4759 2875 4804; x_wconf 72' lang='lat' dir='ltr'>Printers0</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1799 4821 2705 4876; baseline 0.002 -10"><span class='ocrx_word' id='word_1_10' title='bbox 1799 4823 1890 4866; x_wconf 79' lang='lat' dir='ltr'>For</span> <span class='ocrx_word' id='word_1_11' title='bbox 1905 4821 2007 4866; x_wconf 77' lang='lat' dir='ltr'>Her</span> <span class='ocrx_word' id='word_1_12' title='bbox 2020 4821 2257 4876; x_wconf 67' lang='lat' dir='ltr'><strong>Maiesty’s</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2276 4821 2533 4876; x_wconf 57' lang='lat' dir='ltr'><strong>Stationem</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2550 4821 2705 4868; x_wconf 70' lang='lat' dir='ltr'><strong>office.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
